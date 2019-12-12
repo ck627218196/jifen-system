@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8be68d6-4c53-44f3-be6b-e1378de48d63" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/info/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login/tests.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>el-message_content</find>
+      <find>el-message</find>
+      <find>el-message{</find>
+      <find>date</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectId" id="1RPa65iwuo9SVZeW9UAIVmwBBOg" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="employee1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee1" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee1" type="462c0819:PsiDirectoryNode" />
+              <item name="info" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee1" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="employee" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8be68d6-4c53-44f3-be6b-e1378de48d63" name="Default Changelist" comment="" />
+      <created>1560912001401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560912001401</updated>
+      <workItem from="1562895720325" duration="5167000" />
+      <workItem from="1562928677123" duration="6480000" />
+      <workItem from="1562936383985" duration="394000" />
+      <workItem from="1562937480859" duration="8302000" />
+      <workItem from="1563021459372" duration="6128000" />
+      <workItem from="1563106191046" duration="10130000" />
+      <workItem from="1563151526953" duration="23937000" />
+      <workItem from="1563240148449" duration="26508000" />
+      <workItem from="1563276537188" duration="179000" />
+      <workItem from="1563276737846" duration="6619000" />
+      <workItem from="1563285156000" duration="7642000" />
+      <workItem from="1563324069295" duration="1750000" />
+      <workItem from="1563329380960" duration="8577000" />
+      <workItem from="1563352132665" duration="1949000" />
+      <workItem from="1563410937647" duration="23692000" />
+      <workItem from="1563447156689" duration="582000" />
+      <workItem from="1563452269758" duration="6647000" />
+      <workItem from="1563459007502" duration="4920000" />
+      <workItem from="1563497024167" duration="317000" />
+      <workItem from="1563497635616" duration="9734000" />
+      <workItem from="1563516251543" duration="2253000" />
+      <workItem from="1563518855370" duration="24000" />
+      <workItem from="1563540310138" duration="9828000" />
+      <workItem from="1563700405536" duration="18747000" />
+      <workItem from="1563757417388" duration="32152000" />
+      <workItem from="1563842481366" duration="14092000" />
+      <workItem from="1563861442388" duration="602000" />
+      <workItem from="1563862240319" duration="14126000" />
+      <workItem from="1563889991267" duration="7292000" />
+      <workItem from="1563929897983" duration="7992000" />
+      <workItem from="1563946388603" duration="15314000" />
+      <workItem from="1563978557552" duration="2133000" />
+      <workItem from="1564015993205" duration="21339000" />
+      <workItem from="1564045787049" duration="5927000" />
+      <workItem from="1564102512766" duration="16302000" />
+      <workItem from="1564235696389" duration="353000" />
+      <workItem from="1564236502725" duration="7688000" />
+      <workItem from="1564296192425" duration="11363000" />
+      <workItem from="1564323772942" duration="2845000" />
+      <workItem from="1564363676391" duration="4280000" />
+      <workItem from="1564448506265" duration="7371000" />
+      <workItem from="1564464295015" duration="4609000" />
+      <workItem from="1564486884222" duration="1325000" />
+      <workItem from="1564504797443" duration="1638000" />
+      <workItem from="1564533535414" duration="8642000" />
+      <workItem from="1564621462128" duration="6364000" />
+      <workItem from="1564706861247" duration="15617000" />
+      <workItem from="1564729242130" duration="5974000" />
+      <workItem from="1564968390277" duration="5163000" />
+      <workItem from="1565066206882" duration="9412000" />
+      <workItem from="1565142178481" duration="13549000" />
+      <workItem from="1565226004252" duration="4231000" />
+      <workItem from="1565233712130" duration="38000" />
+      <workItem from="1565255488670" duration="602000" />
+      <workItem from="1565314985941" duration="6698000" />
+      <workItem from="1565337473196" duration="4157000" />
+      <workItem from="1565574197791" duration="6243000" />
+      <workItem from="1565593568165" duration="434000" />
+      <workItem from="1565599652216" duration="2320000" />
+      <workItem from="1565658587645" duration="29934000" />
+      <workItem from="1565743815721" duration="3476000" />
+      <workItem from="1565749028440" duration="2408000" />
+      <workItem from="1565760805667" duration="3847000" />
+      <workItem from="1565830517186" duration="21128000" />
+      <workItem from="1565917431343" duration="10992000" />
+      <workItem from="1566179548419" duration="9633000" />
+      <workItem from="1566265510211" duration="6191000" />
+      <workItem from="1566350337868" duration="607000" />
+      <workItem from="1567041482644" duration="26000" />
+      <workItem from="1567041555542" duration="641000" />
+      <workItem from="1567412938631" duration="714000" />
+      <workItem from="1567559382346" duration="1559000" />
+      <workItem from="1567653579817" duration="7231000" />
+      <workItem from="1567732001939" duration="12737000" />
+      <workItem from="1567989916940" duration="11382000" />
+      <workItem from="1568077596230" duration="20228000" />
+      <workItem from="1568254340346" duration="5969000" />
+      <workItem from="1568372188564" duration="4370000" />
+      <workItem from="1568687584330" duration="9716000" />
+      <workItem from="1568787288138" duration="2830000" />
+      <workItem from="1568877218978" duration="55000" />
+      <workItem from="1568877466380" duration="1671000" />
+      <workItem from="1569571016105" duration="102000" />
+      <workItem from="1569661389345" duration="663000" />
+      <workItem from="1576128032405" duration="1617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1617000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/employee/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
